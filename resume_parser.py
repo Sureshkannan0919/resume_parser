@@ -157,10 +157,3 @@ if __name__ == '__main__':
     else:
       print("College Name not found")
 
-
-
-# In[ ]:
-
-
-
-
